@@ -1,0 +1,30 @@
+# Kazyel Configuration - Ghostty 09/2025
+theme = Kanagawabones
+
+# Editor
+
+font-family = "JetBrains Mono Nerd Font"
+font-size = 10
+cursor-style = "bar"
+
+# Background Confg
+
+background = #191919
+background-opacity = 0.95
+background-blur = false
+
+# Window Config
+
+window-padding-x = 12
+window-padding-y = 6
+window-height = 45
+window-width = 165
+window-theme = ghostty
+window-title-font-family = JetBrains Mono Nerd Font
+window-titlebar-background = #000000
+window-decoration = server
+
+# Integrations
+shell-integration = zsh
+
+
