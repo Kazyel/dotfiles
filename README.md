@@ -2,6 +2,8 @@
 
 Welcome to my personal development environment configuration! This repository contains all the dotfiles and configurations I use for my daily development workflow.
 
+![Terminal Setup](./terminal.png "My terminal configuration")
+
 ## 🖥️ Setup Overview
 
 - **Shell**: Zsh with Oh My Zsh.
@@ -31,3 +33,4 @@ Welcome to my personal development environment configuration! This repository co
 
 These configurations are tested on **Linux**, specifically *Fedora KDE 42+* systems.
 Will give installation steps soon!
+
