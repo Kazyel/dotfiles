@@ -16,11 +16,11 @@ background-blur = false
 # Window Config
 
 window-padding-x = 12
-window-padding-y = 6
-window-height = 45
-window-width = 165
+window-padding-y = 2
+window-height = 42
+window-width = 150
 window-theme = ghostty
-window-title-font-family = JetBrains Mono Nerd Font
+window-title-font-family = "JetBrains Mono Nerd Font"
 window-titlebar-background = #000000
 window-decoration = server
 
